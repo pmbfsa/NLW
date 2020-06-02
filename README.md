@@ -1,6 +1,6 @@
 # Introdução
 
-Esse projeto se trata de uma aplicação de estudos desenvolvida do zero na semana de desenvolvimento da RocketSet, a Next Level Week. A ideia do projeto é introduzir uma pessoa leiga que não saiba nada de programação ao mundo do desenvolvimento web. As línguas utilizadas são:
+Esse projeto se trata de uma aplicação de estudos desenvolvida do zero na semana de desenvolvimento da RocketSet, a Next Level Week. A ideia do projeto é introduzir uma pessoa leiga que não saiba nada de programação ao mundo do desenvolvimento web. As linguagens utilizadas são:
 
 - HTML
 - CSS
