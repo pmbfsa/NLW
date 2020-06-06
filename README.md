@@ -22,19 +22,19 @@ Esta é a página de entrada que direciona para a página de cadstro das entidad
 
 Responsável por coletar as informações e inseri-las no banco de dados. A seguir a lista das informações que serão coletadas:
 
-    - Nome
-    - Imagem
-    - Endereço 
-    - Número/Complemento
-    - Estado
-    - Cidade
-    - Itens de Coleta
-        - Lâmpadas
-        - Pilhas e Baterias
-        - Papéis e Papelão
-        - Resíduos Eletrônicos
-        - Resíduos Orgânicos
-        - Óleo de Cozinha
+- Nome
+- Imagem
+- Endereço 
+- Número/Complemento
+- Estado
+- Cidade
+- Itens de Coleta
+    - Lâmpadas
+    - Pilhas e Baterias
+    - Papéis e Papelão
+    - Resíduos Eletrônicos
+    - Resíduos Orgânicos
+    - Óleo de Cozinha
 
 Os campos são todos obrigatórios, exceto o campo de itens de coleta.
 
