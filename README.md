@@ -14,11 +14,11 @@ O banco de dados utilizado foi o SQLite3.
 
 O projeto web desenvolvido se trata de uma site de cadastro e busca para pontos de coleta e reciclagem. O site possui as seguintes páginas:
 
-## Inicial
+## 1 - Inicial
 
 Esta é a página de entrada que direciona para a página de cadstro das entidades e possuí o botão de busca, por cidade, das entidades já cadastradas anteriormente. 
 
-## Cadastro da Entidade
+## 2 - Cadastro da Entidade
 
 Responsável por coletar as informações e inseri-las no banco de dados. A seguir a lista das informações que serão coletadas:
 
@@ -38,7 +38,7 @@ Responsável por coletar as informações e inseri-las no banco de dados. A segu
 
 Os campos são todos obrigatórios, exceto o campo de itens de coleta.
 
-## Resultado da Busca
+## 3 - Resultado da Busca
 
 Esta página mostra as entidades cadastradas anteriormente, com base nas informações e imagem fornecida para o banco de dados.
 
